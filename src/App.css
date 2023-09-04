@@ -1,0 +1,13 @@
+.loading-message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 4em;
+    background-size: 100%;
+}  
+
+.error-message{
+ font-size: 2em;
+ ;
+}

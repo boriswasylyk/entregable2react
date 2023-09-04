@@ -1,0 +1,82 @@
+article{
+  
+  background-size:cover;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em ;
+    ;
+}
+h1 {
+  font-family: 'Arial, sans-serif';
+  font-size: 3em;
+  margin-bottom: 10px;
+  background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+  border: 1px solid lightpink;
+  border-radius: 10px;
+} 
+h2{
+  margin-bottom: 10px;
+  background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+  border: 1px solid lightpink;
+  border-radius: 10px;
+  
+}
+div{
+  background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+ border: 1px solid lightpink;
+ border-radius: 10px;
+ 
+}
+.section{
+ margin-bottom: 20px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+    background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    border: 1px solid lightpink;
+    border-radius: 10px;
+    text-align: center;
+}
+ul{
+ padding: 30px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin-bottom: 10px;
+ background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+ border: 1px solid lightpink;
+ border-radius: 10px;
+ 
+ 
+}
+h2{
+  background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+  border: 1px solid lightpink;
+  border-radius: 10px;
+}
+.boton {
+  
+  background-color: #5fb1cad0; 
+  border: none; 
+  color: white; 
+  padding: 10px 20px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 16px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+
+.boton:hover {
+  background-image: url(https://images.pexels.com/photos/2470655/pexels-photo-2470655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+}
+
+
+.boton:active {
+  background-color: #3e6789ab; 
+}
